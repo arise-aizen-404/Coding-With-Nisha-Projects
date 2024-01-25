@@ -23,6 +23,9 @@ function guess(){
 }
 function resetNum(){
     secretNum = generate();
+    mssg.innerHTML = '';
+    guessNum.value = '';
+    guessNum.focus();
 }
 function showNum(){
     mssg.innerHTML = "The Number is "+secretNum;
