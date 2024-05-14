@@ -2,13 +2,13 @@
 
 | Project Name   | Live Demo |
 |----------------|-----------|
-| P01_StopWatch  | [Live Demo](#stopwatch-demo)         |
-| P02_PopUp      | [Live Demo](#popup-demo)             |
-| P03_TODOList   | [Live Demo](#todolist-demo)          |
-| P04_Calculator | [Live Demo](#calculator-demo)        |
-| P05_GuessNum   | [Live Demo](#guessnum-demo)          |
-| P06_TicTacToe  | [Live Demo](#tictactoe-demo)         |
-| P07_RandomQuoteGenerator | [Live Demo](#randomquotegenerator-demo) |
+| P01_StopWatch  | [Live Demo](https://arise-aizen-404.github.io/Coding-With-Nisha-Projects/P01_StopWatch/)         |
+| P02_PopUp      | [Live Demo](https://arise-aizen-404.github.io/Coding-With-Nisha-Projects/P02_PopUp/)             |
+| P03_TODOList   | [Live Demo](https://arise-aizen-404.github.io/Coding-With-Nisha-Projects/P03_TODOList/)          |
+| P04_Calculator | [Live Demo](https://arise-aizen-404.github.io/Coding-With-Nisha-Projects/P04_Calculator/)        |
+| P05_GuessNum   | [Live Demo](https://arise-aizen-404.github.io/Coding-With-Nisha-Projects/P05_GuessNum/)          |
+| P06_TicTacToe  | [Live Demo](https://arise-aizen-404.github.io/Coding-With-Nisha-Projects/P06_TicTacToe/)         |
+| P07_RandomQuoteGenerator | [Live Demo](https://arise-aizen-404.github.io/Coding-With-Nisha-Projects/P07_RandomQuoteGenerator/) |
 
 ---
 
@@ -50,7 +50,7 @@ The TODO List project focuses on creating a simple and intuitive interface for u
 
 ### Output
 
-![Link to TODOList Images](./outputs/todolist.png)
+![Link to TODOList Images](./outputs/todo.png)
 
 ---
 
@@ -106,4 +106,4 @@ The Random Quote Generator project aims to create a dynamic and engaging user ex
 
 ### Output
 
-![Link to RandomQuoteGenerator Images](./outputs/randomquote.png)
+![Link to RandomQuoteGenerator Images](./outputs/quote.png)
